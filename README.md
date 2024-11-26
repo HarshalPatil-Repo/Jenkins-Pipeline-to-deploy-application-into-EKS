@@ -1,1 +1,1 @@
-# Jenkins-Pipeline-to-deploy-application-into-EKS
+# Jenkins pipeline to deploy application into EKS

@@ -1,4 +1,4 @@
-# Jenkins pipeline to deploy application into EKS
+# Jenkins Pipeline to Deploy Application into EKS
 
 In this project I have deployed simple java based application into Kubernetes (EKS) Deployment consist of 6 pods using Jenkins pipeline. Below tools are integrated with this pipeline:
 - Git: Application code repository

@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: myweb
-        image: harshalppatil98/appimage*
+        image: harshalppatil98/appimage:latest
         ports:
         - containerPort: 8080

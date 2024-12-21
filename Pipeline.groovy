@@ -43,7 +43,7 @@ pipeline {
             steps {
                 sh'''
                     docker tag appimage harshalppatil98/appimage
-                    dcoker push harshalppatil98/appimage
+                    docker push harshalppatil98/appimage
                 '''
             }
         }
